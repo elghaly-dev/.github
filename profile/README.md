@@ -4,6 +4,8 @@ Small open-source tools for people who run Solana bots and RPC nodes: status and
 
 🌐 [elghaly.dev](https://elghaly.dev)
 
+<p align="center"><img src="terminal.svg" alt="ELGHALY weekly commits chart with totals, streak and top repos" width="100%"></p>
+
 ### Public repos
 
 | Repo | What it is | Page |
